@@ -1,3 +1,3 @@
 # introducaoJs
 
-Projeto de testes Introdução a JavaScript, começando os estudos, aos poucos vamos evoluindo!
+Test project Introduction to JavaScript, starting the studies, little by little we are evolving!
